@@ -1,0 +1,92 @@
+body
+{
+	background: url(../img/bd.jpg)no-repeat ;
+	background-size: cover;
+	
+}	
+h1
+{
+	font-family: sans-serif;
+	font-weight: bolder;
+	color:black;
+	font-size: 3em;
+ 	text-align: center;
+	font-style: italic;
+	margin-top: 20px;
+}
+
+ #input_wrapper
+ {
+ 	
+ 	background: url(../img/img1.jpg) no-repeat;
+	background-size: cover;
+	height:350px;
+	margin-left:25%;
+	margin-top: 10%;
+	width: 50%;
+	opacity: 0.95;
+ }
+ h2
+{
+	font-family: sans-serif;
+	font-weight: bolder;
+	color:brown;
+	font-size: 1.2em;
+ 	text-align: center;
+	font-style: italic;
+	padding-top: 20px;
+}
+ #input_textarea
+ {
+ 	font-family: sans-serif;
+ 	text-align: center;
+ 	font-weight: bolder;
+ 	padding-top: 30px;
+ }
+button
+ {	
+ 	display: inline-block;
+ 	color: #fff;
+	width: 100px;
+	height: 40px;
+ 	font-family: sans-serif;
+ 	font-weight: bolder;
+	text-align: center;
+	border-color:grey;
+	border : solid ;
+	background-color:brown;
+}
+ #guess
+ {
+ 	width: 40%;
+ 	font-family: sans-serif;
+ 	font-weight: bolder;
+	font-size: 2em;
+ 	text-align: center;
+ 	padding-top: 40px;
+ }
+
+#outputmessage
+{
+
+	font-weight: bolder;
+	font-size:1.7em;
+	text-align: center;
+	color:brown;
+
+}
+
+
+ul li {
+	display:block;
+	margin-right:20px;
+	padding-right:2px;
+	text-align: center;
+	padding-top: 5px;
+
+}
+
+#ouputwrapper
+{
+	text-align: center;
+}
